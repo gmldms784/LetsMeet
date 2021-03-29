@@ -1,8 +1,10 @@
 # LetsMeet
 약속 정하기 웹 서비스 
 
+* [서비스 바로가기](https://letsmeeet.azurewebsites.net/)
 * [기술스택](#기술스택)
 * [서비스데모](#서비스데모)
+
 
 ## 기술스택
 ### Frontend
@@ -13,6 +15,7 @@
 ### BackEnd
 - Spring Boot
 - MySQL
+
 
 
 ## 서비스데모
